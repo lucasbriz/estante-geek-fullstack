@@ -1,0 +1,33 @@
+{
+  "editions": [
+    {
+      "id": 1,
+      "titulo": "Demon Slayes",
+      "autor": "Koyoharu Gotouge",
+      "editora": "Shueisha",
+      "ano": 2016,
+      "status": "check",
+      "nota": 5,
+      "comentario": "Muito bom!"
+    },
+    {
+      "id": 2,
+      "titulo": "Batman: Son of the Demon",
+      "autor": "Mike W. Barr",
+      "editora": "DC Comics",
+      "ano": 1987,
+      "status": "noCheck",
+      "nota": 0,
+      "comentario": ""
+    }
+  ],
+  "profiles": [
+    {
+      "id": 1,
+      "nome": "Luand Neves",
+      "nome_usuario": "LuNeves",
+      "email": "luand@teste.com",
+      "senha": "123"
+    }
+  ]
+}

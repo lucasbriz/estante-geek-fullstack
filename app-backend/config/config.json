@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "estantegeekadim",
+    "password": "#Geek2023",
+    "database": "estante-geek-db",
+    "host": "estante-geek-db.mysql.database.azure.com",
+    "dialect": "mysql"
+  },
+  "local": {
+    "username": "root",
+    "password": "4268",
+    "database": "estante_geek",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
